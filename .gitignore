@@ -1,0 +1,11 @@
+.venv/
+.env
+__pycache__/
+*.pyc.pytest_cache/
+*.py[cod]
+aegis.log
+!.env.example.pytest_cache/# Logs
+*.log
+
+# IDE
+.vscode/
